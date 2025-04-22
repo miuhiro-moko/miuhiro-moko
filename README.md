@@ -14,7 +14,7 @@
 - Python（Selenium）を用いたWebスクレイピング実装経験
 
 ### 競技プログラミング
-atcoder 茶色
+atcoder(python) 茶色
 https://atcoder.jp/users/hiromokohiromoko
 
 
